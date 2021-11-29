@@ -6,7 +6,7 @@
 
 ### Check my Github repositories at github.com/Almogbs
 
-## Some of my Projects:
+### Some of my Projects:
 - github.com/Almogbs/ML-BrainTumorDetection
 - github.com/Almogbs/RSAEncryptionDecryption
 - github.com/Almogbs/UnixShell
