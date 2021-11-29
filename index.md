@@ -1,3 +1,4 @@
+## Welcome to Almog Ben-Shaul Github Page!
 
 ### About Me:
 - B.Sc. Computer Science, Technion Israel Institute of Technology
