@@ -1,5 +1,5 @@
-## About Me:
 
+### About Me:
 - B.Sc. Computer Science, Technion Israel Institute of Technology
 - Machine Learning, Deep Learning & Computer Vision Algorithms enthusiast
 
@@ -14,7 +14,7 @@ github.com/Almogbs/TaskManager
 
 ### Projects from Courses:
 #### Introduction to Systems Programming:
-- https://github.com/Almogbs/EventManager-matam-ex1
+- github.com/Almogbs/EventManager-matam-ex1
 - github.com/Almogbs/EventManagerSwig_Python_Interface_From_C-matam-ex2
 - github.com/Almogbs/EventsRegistrationManager-matam-ex3
 
