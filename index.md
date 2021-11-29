@@ -6,11 +6,11 @@
 ### Check my Github repositories at github.com/Almogbs
 
 ## Some of my Projects:
-github.com/Almogbs/ML-BrainTumorDetection
-github.com/Almogbs/RSAEncryptionDecryption
-github.com/Almogbs/UnixShell
-github.com/Almogbs/WebDataAnalysis
-github.com/Almogbs/TaskManager
+- github.com/Almogbs/ML-BrainTumorDetection
+- github.com/Almogbs/RSAEncryptionDecryption
+- github.com/Almogbs/UnixShell
+- github.com/Almogbs/WebDataAnalysis
+- github.com/Almogbs/TaskManager
 
 ### Projects from Courses:
 #### Introduction to Systems Programming:
