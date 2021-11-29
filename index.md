@@ -15,7 +15,7 @@
 
 ### Projects from Courses:
 #### Introduction to Systems Programming:
-- github.com/Almogbs/EventManager-matam-ex1
+- [github.com/Almogbs/EventManager-matam-ex1](github.com/Almogbs/EventManager-matam-ex1)
 - github.com/Almogbs/EventManagerSwig_Python_Interface_From_C-matam-ex2
 - github.com/Almogbs/EventsRegistrationManager-matam-ex3
 
