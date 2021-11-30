@@ -1,19 +1,32 @@
-## Welcome to Almog Ben-Shaul Github Page!
+# Welcome to Almog Ben-Shaul Github Page!
 
-### About Me:
+## About Me:
 - B.Sc. Computer Science, Technion Israel Institute of Technology
 - Machine Learning, Deep Learning & Computer Vision Algorithms enthusiast
 
 ### Check my Github repositories at [github.com/Almogbs](http://github.com/Almogbs)
 
-### Some of my Projects:
-- [github.com/Almogbs/ML-BrainTumorDetection](http://github.com/Almogbs/ML-BrainTumorDetection)
-- [github.com/Almogbs/RSAEncryptionDecryption](http://github.com/Almogbs/RSAEncryptionDecryption)
-- [github.com/Almogbs/UnixShell](http://github.com/Almogbs/UnixShell)
-- [github.com/Almogbs/WebDataAnalysis](http://github.com/Almogbs/WebDataAnalysis)
-- [github.com/Almogbs/TaskManager](http://github.com/Almogbs/TaskManager)
+## Some of my Projects:
 
-### Projects from Courses:
+#### Training Machine Learning Models for Brain Tumor Detection with MRI scans
+  - Implemented in Python (Jupter Notebook) using SKLearn, Pandas, Numpy and Matplotlib  
+  - Link: [github.com/Almogbs/ML-BrainTumorDetection](http://github.com/Almogbs/ML-BrainTumorDetection)
+####  RSA Algorithm for Data Encryption and Decryption
+  - Implemented in Python
+  - [github.com/Almogbs/RSAEncryptionDecryption](http://github.com/Almogbs/RSAEncryptionDecryption)
+####  Unix-Like Shell
+  - Support most of the modern linux shell commands
+  - Also support Redirctions, Pipes, job list, keyboard interrupts and more
+  - Implemented in C++
+  - [github.com/Almogbs/UnixShell](http://github.com/Almogbs/UnixShell)
+####  Data Analysis Report for given Web page
+  - Implemented in Python, using Matplotlib, Beautifulsoup, Numpy and Regular Expressions
+  - [github.com/Almogbs/WebDataAnalysis](http://github.com/Almogbs/WebDataAnalysis)
+####  Simple Task Manager User Interface
+  - Implemented in Python, using Tkinter, SQLite and JSON
+  - [github.com/Almogbs/TaskManager](http://github.com/Almogbs/TaskManager)
+
+## Projects from Courses:
 #### Introduction to Systems Programming:
 - [github.com/Almogbs/EventManager-matam-ex1](http://github.com/Almogbs/EventManager-matam-ex1)
 - [github.com/Almogbs/EventManagerSwig_Python_Interface_From_C-matam-ex2](http://github.com/Almogbs/EventManagerSwig_Python_Interface_From_C-matam-ex2)
