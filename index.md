@@ -8,7 +8,7 @@
 
 ## Some of my Projects:
 
-#### Training Machine Learning Models for Brain Tumor Detection with MRI scans
+#### Training Machine Learning Models for Brain Tumor Detection with MRI scans 
   - Implemented in Python (Jupter Notebook) using SKLearn, Pandas, Numpy and Matplotlib  
   - Link: [github.com/Almogbs/ML-BrainTumorDetection](http://github.com/Almogbs/ML-BrainTumorDetection)
 ####  RSA Algorithm for Data Encryption and Decryption
@@ -21,7 +21,7 @@
   - [github.com/Almogbs/UnixShell](http://github.com/Almogbs/UnixShell)
 ####  Data Analysis Report for given Web page with Computer Vision and more
   - Using computer vision model on website images and process the source page to predict the website main subject
-  - Implemented in Python, using Matplotlib, Beautifulsoup, Numpy and Regular Expressions
+  - Implemented in Python, using ImageAI(Tensorflow), Matplotlib, Beautifulsoup, Numpy and Regular Expressions
   - [github.com/Almogbs/WebDataAnalysis](http://github.com/Almogbs/WebDataAnalysis)
 ####  Simple Task Manager User Interface
   - Implemented in Python, using Tkinter, SQLite and JSON
