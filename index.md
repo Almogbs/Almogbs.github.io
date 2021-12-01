@@ -8,7 +8,7 @@
 
 ## Some of my Projects:
 
-#### Training Machine Learning Models for Brain Tumor Detection with MRI scans 
+####  Training Machine Learning Models for Brain Tumor Detection with MRI scans 
   - Implemented in Python (Jupter Notebook) using SKLearn, Pandas, Numpy and Matplotlib  
   - Link: [github.com/Almogbs/ML-BrainTumorDetection](http://github.com/Almogbs/ML-BrainTumorDetection)
 ####  RSA Algorithm for Data Encryption and Decryption
