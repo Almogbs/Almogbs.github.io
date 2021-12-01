@@ -19,7 +19,8 @@
   - Also support Redirctions, Pipes, job list, keyboard interrupts and more
   - Implemented in C++
   - [github.com/Almogbs/UnixShell](http://github.com/Almogbs/UnixShell)
-####  Data Analysis Report for given Web page
+####  Data Analysis Report for given Web page with Computer Vision and more
+  - Using computer vision model on website images and process the source page to predict the website main subject
   - Implemented in Python, using Matplotlib, Beautifulsoup, Numpy and Regular Expressions
   - [github.com/Almogbs/WebDataAnalysis](http://github.com/Almogbs/WebDataAnalysis)
 ####  Simple Task Manager User Interface
