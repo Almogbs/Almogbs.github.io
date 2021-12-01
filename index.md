@@ -1,4 +1,4 @@
-# Welcome to Almog Ben-Shaul Github Page!
+# Welcome to Almog Ben-Shaul's Github Page!
 
 ## About Me:
 - B.Sc. Computer Science, Technion Israel Institute of Technology
@@ -7,7 +7,6 @@
 ### Check my Github repositories at [github.com/Almogbs](http://github.com/Almogbs)
 
 ## Some of my Projects:
-
 ####  Training Machine Learning Models for Brain Tumor Detection with MRI scans 
   - Implemented in Python (Jupter Notebook) using SKLearn, Pandas, Numpy and Matplotlib  
   - Link: [github.com/Almogbs/ML-BrainTumorDetection](http://github.com/Almogbs/ML-BrainTumorDetection)
