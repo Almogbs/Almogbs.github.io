@@ -7,7 +7,6 @@
 ### Check my Github repositories at [github.com/Almogbs](https://github.com/Almogbs)
 
 ## Some of my Projects:
-####
 ####  Training Machine Learning Models for Brain Tumor Detection with MRI scans 
   - Implemented in Python (Jupter Notebook) using SKLearn, Pandas, Numpy and Matplotlib  
   - Link: [github.com/Almogbs/ML-BrainTumorDetection](https://github.com/Almogbs/ML-BrainTumorDetection)
